@@ -4,8 +4,8 @@
 
 # 💾 Database & Software Development Repository
 
-### Docente de Desarrollo de Software
-### Instituto Nacional de Osicala | El Salvador 🇸🇻
+### Docente de Desarrollo de Software.
+### Instituto Nacional de Osicala 
 
 <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" width="80">
 <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" width="80">
